@@ -1,6 +1,6 @@
 # 📊 AI Trade Signal Map
 
-An interactive machine learning visualization tool that maps **trading signals (Buy / Sell / Hold)** based on market features like **momentum (returns)** and **volatility**.
+AI Trade Signal Map is a Python project that visualizes where an AI model gives buy, sell, or hold signals in a 2D feature space. The visualization helps you understand how market conditions (momentum and volatility) relate to model trading decisions.
 
 ---
 
